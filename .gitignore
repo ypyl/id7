@@ -4,6 +4,7 @@ obj/
 
 ## NuGet packages
 nupkg/
+artifacts/
 
 ## Local tool data (id7 task file)
 id7
