@@ -1,0 +1,12 @@
+## .NET build artifacts
+bin/
+obj/
+
+## NuGet packages
+nupkg/
+
+## Local tool data (id7 task file)
+id7
+
+## Editor user settings
+.vscode/*.local.json
